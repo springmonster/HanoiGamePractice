@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ee6fc4ec0475843805437204fe148f8736ee8192/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_7b5dfaa64d37d8694f109b2bbf7b54dd113c3c93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_e3937f5c717ad4e101622bc9ebaaa27ca3d552c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7cfa4b70b2a2e127119fbbdec3c2503bf7f2fc91">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f2da60d2a55adc1fc919c4f3626e49bfe8d6b81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_cc299a8557acbb45709a827894fc95fd02320d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c9a7dfd1fead318b6f830f1a37bf14868d06e86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_e5b7272573b519f585274ae60a473eacd47d3faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_07d1c3a99af9c7ca201bb55c7b5a6c369e8195c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_8b10b348dc681b670f8cf0787ac1baf3445d4c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_45d8e3d7539188f83c0475d9ab8173b705b0a525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_3daa14af96c7957e8780fa93e7f237eafb41b910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f02ee5fd9d2bf383db08bf76abb6b5e84974657d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_87f0beae5d5a393089fe2c99bb59770fe8916398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_fab8ff5c99c79e0040949eb691a712a1b31e9cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d55e8ae7bb862f41add0cdbe29dcb1507ed9b0b">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_611588948814118d25346b3fb302386063b1e16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ac696ca7b499278dc0d28b22cfb89bd78bcd712b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_54b2520fc8aa1844d5cd7d9617c0871bcde965b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3916e4a97b8fbd51e42fa481df7e88cb15c837f8">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6a4aaba9d2e5ae1758be65983224ef12a9e2b34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f137a48608f1458712ffd53331495b40e25717e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_050a2fecf37796b3ef29e2291ab4bfbce60dca54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_20a03da4a4a7f119fb8513c2f8366c3a2bc355c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25414e06a14fc340966ed007093e8a0fd3408d0c">
+        <dex dex="/Users/kuanghaochuan/Company/AndroidDevTool/HanoiGameGithub/HanoiGamePractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_421285ecf184e4e3ded7ce95fc1ba016450dab3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/kuanghaochuan/Company/Android/HanoiGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_a3fdaae9ab1cea32ae5cd41099ca45bf2ae09ed6/classes.dex" />
+    </item>
+
+</items>

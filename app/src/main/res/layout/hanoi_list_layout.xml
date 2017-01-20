@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_pillar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_green_light"
+        android:scaleType="fitXY"
+        android:src="@drawable/pillar"/>
+
+    <LinearLayout
+        android:id="@+id/hanoi_list_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/hanoi_1_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_1"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/hanoi_2_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_2"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/hanoi_3_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_3"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/hanoi_4_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_4"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/hanoi_5_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_5"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/hanoi_6_img"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/h_6"
+            android:visibility="invisible"/>
+    </LinearLayout>
+</FrameLayout>
